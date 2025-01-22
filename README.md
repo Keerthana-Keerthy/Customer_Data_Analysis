@@ -17,5 +17,5 @@ The objective of this dashboard is to analyze customer data and provide actionab
 
 Businesses can use this dashboard to optimize inventory management by focusing on popular product colors and high-demand regions. Additionally, it helps in designing targeted marketing campaigns for top customers and improving customer engagement based on demographic insights.
 
-<img width="818" alt="customer_data_analysis" src="https://github.com/user-attachments/assets/d005e895-e308-47b7-81b2-3c92f4b08ccf" />
+<img width="841" alt="customer_data_analysis" src="https://github.com/user-attachments/assets/018ede07-0d93-4768-8039-cbde0c5255e9" />
 
